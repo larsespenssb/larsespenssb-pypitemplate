@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "larsespenssb-pypitemplate"
-version = "0.0.0"
+version = "0.0.1"
 description = "Larsespenssb Pypitemplate"
 authors = ["Lars Espen Baanerud <Lars.Baanerud@ssb.no>"]
 license = "MIT"
