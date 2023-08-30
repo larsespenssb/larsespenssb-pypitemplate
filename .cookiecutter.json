@@ -1,0 +1,17 @@
+{
+  "_copy_without_render": [
+    "*.rst_t"
+  ],
+  "_template": "https://github.com/statisticsnorway/ssb-pypitemplate.git",
+  "author": "Lars Espen Baanerud",
+  "copyright_owner": "Statistics Norway",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "Lars.Baanerud@ssb.no",
+  "friendly_name": "Larsespenssb Pypitemplate",
+  "github_organization": "larsespenssb",
+  "license": "MIT",
+  "package_name": "larsespenssb_pypitemplate",
+  "project_name": "larsespenssb-pypitemplate",
+  "version": "0.0.0"
+}
